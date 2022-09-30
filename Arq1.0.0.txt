@@ -1,1 +1,5 @@
 Arquivo original versão 1.0.0 do projeto de Versionamento de codigo.
+
+Arquivo editado na branch Development
+    Versão Beta 1.1.0
+        Dia 29/09/2022 22:28
