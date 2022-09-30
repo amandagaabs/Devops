@@ -3,3 +3,5 @@ Esse arquivo foi criado na Branch Development
      Dia 22/09/2022 22:31
 
                 Realizado teste as 22:48 na Branch Release
+
+                                    Liberada a versão 2.0.0 - as 22:50

@@ -8,3 +8,5 @@ Arquivo editado na branch Development
             Versão Beta 1.1.1
 
                         Realizado teste as 22:48 na Branch Release
+
+                                        Liberada a versão 2.0.0 - as 22:50
