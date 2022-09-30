@@ -14,3 +14,6 @@ Arquivo editado na branch Development
                                         Renomeado para versão 2.0.0 - as 22:59
 
                                             Adicionado a FeatureC
+                        Realizado teste as 23:41 na Branch Release
+
+                                        Liberada a versão 2.2.0 - as 23:41
