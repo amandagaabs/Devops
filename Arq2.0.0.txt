@@ -12,3 +12,7 @@ Arquivo editado na branch Development
                                         Liberada a versão 2.0.0 - as 22:50
 
                                         Renomeado para versão 2.0.0 - as 22:59
+
+                        Realizado teste as 23:41 na Branch Release
+
+                                        Liberada a versão 2.2.0 - as 23:41
