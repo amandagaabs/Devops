@@ -13,9 +13,9 @@
 <br />
 
 ## 🚀 Alunos envolvidos
-### Adriano Carvalho ([  ](  ))
+### Adriano Carvalho ([ad-carv](https://github.com/ad-carv))
 ### Amanda([@amandagaabs](https://github.com/amandagaabs))
-### Eduarda Garangau Miranda  ([  ](  ))
+### Eduarda Garangau Miranda  ([EduardaGarangau](https://github.com/EduardaGarangau  ))
 
 
 
