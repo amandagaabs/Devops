@@ -2,3 +2,5 @@
 
     editado após merge da FeaturaA para Development
         22/09/2022 22:45
+
+            Realizado teste as 22:48 na Branch Release
