@@ -1,1 +1,4 @@
 1.1.1
+
+    editado após merge da FeaturaA para Development
+        22/09/2022 22:45
