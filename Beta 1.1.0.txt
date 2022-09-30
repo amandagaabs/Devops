@@ -1,0 +1,3 @@
+Esse arquivo foi criado na Branch Development
+    Beta 1.1.0
+     Dia 22/09/2022 22:31
