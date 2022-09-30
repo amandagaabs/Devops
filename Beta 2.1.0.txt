@@ -5,3 +5,5 @@ Esse arquivo foi criado na Branch Development
                 Realizado teste as 22:48 na Branch Release
 
                                     Liberada a versão 2.0.0 - as 22:50
+
+                                    Renomeado para versão 2.1.0 - as 23:06
